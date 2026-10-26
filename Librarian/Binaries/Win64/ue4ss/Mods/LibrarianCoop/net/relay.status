@@ -1,0 +1,14 @@
+role=host
+peer=none
+peer_name=
+peer_color=
+sent=0
+recv=0
+rejected=0
+last_recv_age=never
+events_out=0
+events_sent=0
+events_unacked=0
+events_recv=0
+events_delivered=0
+events_dup=0
