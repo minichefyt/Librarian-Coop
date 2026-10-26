@@ -14,6 +14,8 @@ WHAT EVERYONE NEEDS
 - Radmin VPN (radmin-vpn.com), all in the same Radmin network.
 - Windows 10 or 11. Nothing else to install.
 
+Made with Claude opus 5.5
+
 
 INSTALL (every player, once)
 1. In Steam: right-click Librarian > Manage > Browse local files. A folder opens; it contains Librarian.exe.
